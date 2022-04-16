@@ -12,7 +12,18 @@ p {
   color: #8f8f8f;
 }
 
+/* Heading */
 
+.big-heading {
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
 
 /* Sections */
 
