@@ -25,6 +25,12 @@ p {
   line-height: 1.5;
 }
 
+/* Containers */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
 /* Sections */
 
 .colored-section {
@@ -36,3 +42,4 @@ p {
   background-color: #fff;
 }
 
+/* Navigation Bar */
