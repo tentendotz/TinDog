@@ -64,7 +64,7 @@ p {
   text-align: end;
 }
 
-/* Title Section  */
+/* Title Section */
 
 #title .container-fluid {
   padding: 3% 15% 7%; 
@@ -72,3 +72,10 @@ p {
 }
 
 /* Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Images  */
+
