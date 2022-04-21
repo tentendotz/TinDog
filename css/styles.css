@@ -87,3 +87,15 @@ p {
 }
 
 /* Features Section*/
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
