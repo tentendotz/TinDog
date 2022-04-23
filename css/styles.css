@@ -86,7 +86,7 @@ p {
   right: 25%;
 }
 
-/* Features Section*/
+/* Features Section */
 
 #features {
   position: relative;
@@ -107,4 +107,21 @@ p {
 
 .icon:hover {
   color: #ff4c68;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
 }
