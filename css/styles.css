@@ -169,3 +169,13 @@ p {
 .social-icon:hover {
   color: #ef8172;
 }
+
+@media (max-width: 991px) {
+  #title .container-fluid {
+    text-align: center;
+  }
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
